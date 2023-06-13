@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Lucretia37
-- 👀 I’m interested in being Happy
--  🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Blockchain
+- 🌱 I’m currently learning about Web3 and Smart Contracts
+- 💞️ i'm mastering Web Development
+
 
 <!---
 Lucretia37/Lucretia37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
